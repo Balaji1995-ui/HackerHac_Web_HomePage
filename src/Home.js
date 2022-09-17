@@ -30,6 +30,7 @@ import icon14 from "../Component/Image/as/icon2.png"
 import icon15 from "../Component/Image/as/icon3.png"
 import icon16 from "../Component/Image/as/icon4.png"
 import screen from "../Component/Image/as/screen.png"
+import foot from"../Component/Image/banner/footer-icons.png"
 import Tabled from "../Tab";
 import Tab1 from "../Tab1";
 import icon17 from "../Component/Image/as/aspicon.png"
@@ -795,15 +796,15 @@ Modern Businesses</h2>
   <p>Tool Evangelism</p>
   <p>Online Interviews</p>
 </Col>
-<Col sm={4} >
+<Col sm={3} >
 <h5>NEWLY UPLOADED BLOGS</h5>
 <p>skill Testing and Talent Search</p>
 <p>The Future of eLearning is Online proctoring!</p>
 <p>Five ways to Upscale the Talent Quality</p>
 <p>A-Lot is Happening in Pre-Employment Assessment</p>
 </Col>
-<Col>
-<h5>NEWLY UPLOADED BLOGS</h5>
+<Col sm={3}>
+<img src={foot} width="100%"></img>
 </Col>
 </Row>
 <Row>
