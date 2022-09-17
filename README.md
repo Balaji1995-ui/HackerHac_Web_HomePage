@@ -1,3 +1,4 @@
+![Web capture_17-9-2022_162842_localhost](https://user-images.githubusercontent.com/101453482/190853308-ada431f2-376e-45df-9450-f085364700dc.jpeg)
 # Getting Started with HackerHac Website HomePage Clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
